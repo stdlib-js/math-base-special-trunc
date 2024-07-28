@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import trunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-trunc@esm/index.mjs';
+import trunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-trunc@v0.2.2-esm/index.mjs';
 ```
 
 #### trunc( x )
@@ -89,7 +89,7 @@ v = trunc( -Infinity );
 <script type="module">
 
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/index.mjs';
-import trunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-trunc@esm/index.mjs';
+import trunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-trunc@v0.2.2-esm/index.mjs';
 
 var x;
 var i;
