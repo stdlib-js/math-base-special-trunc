@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-02)
+## Unreleased (2025-10-30)
 
 <section class="reverts">
 
@@ -22,7 +22,8 @@
 
 <details>
 
--   [`b1a5a2d`](https://github.com/stdlib-js/stdlib/commit/b1a5a2d87a0e1f5a0bd6d74d521cae9eeab435c8) - **docs:** replace manual `for` loop in examples [(#6550)](https://github.com/stdlib-js/stdlib/pull/6550) _(by Harsh, Athan Reines)_
+-   [`acc8798`](https://github.com/stdlib-js/stdlib/commit/acc8798a757781e9220d30cfe157d25525130180) - **chore:** add structured package data for `math/base/special/trunc` [(#8287)](https://github.com/stdlib-js/stdlib/pull/8287) _(by Manvith M, Athan Reines)_
+-   [`b1a5a2d`](https://github.com/stdlib-js/stdlib/commit/b1a5a2d87a0e1f5a0bd6d74d521cae9eeab435c8) - **docs:** replace manual `for` loop in examples [(#6550)](https://github.com/stdlib-js/stdlib/pull/6550) _(by Harsh Yadav, Athan Reines)_
 -   [`4039ae0`](https://github.com/stdlib-js/stdlib/commit/4039ae0c885e813edca9f53211d79b38e911b65a) - **bench:** update random value generation [(#5466)](https://github.com/stdlib-js/stdlib/pull/5466) _(by Karan Anand)_
 -   [`8785e54`](https://github.com/stdlib-js/stdlib/commit/8785e54ec82782d7d01912988596c9d7d2bf06d0) - **refactor:** replace built-ins by stdlib packages, update benchmarks in `math/base/special/trunc` [(#3941)](https://github.com/stdlib-js/stdlib/pull/3941) _(by Gunj Joshi, Athan Reines)_
 -   [`b0e68c5`](https://github.com/stdlib-js/stdlib/commit/b0e68c5bc8ee985794eb2ea1791c9337cd15fbd0) - **chore:** update to modern benchmark Makefile _(by Philipp Burckhardt)_
@@ -43,12 +44,13 @@
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Gunj Joshi
--   Harsh
+-   Harsh Yadav
 -   Karan Anand
+-   Manvith M
 -   Philipp Burckhardt
 
 </section>
