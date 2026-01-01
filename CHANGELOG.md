@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-30)
+## Unreleased (2026-01-01)
 
 <section class="reverts">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`a55e19f`](https://github.com/stdlib-js/stdlib/commit/a55e19f3343b4a34486a5c109805bbc52e4dbb16) - **test:** replace t.true with t.strictEqual so tests actually check main export _(by Philipp Burckhardt)_
 -   [`acc8798`](https://github.com/stdlib-js/stdlib/commit/acc8798a757781e9220d30cfe157d25525130180) - **chore:** add structured package data for `math/base/special/trunc` [(#8287)](https://github.com/stdlib-js/stdlib/pull/8287) _(by Manvith M, Athan Reines)_
 -   [`b1a5a2d`](https://github.com/stdlib-js/stdlib/commit/b1a5a2d87a0e1f5a0bd6d74d521cae9eeab435c8) - **docs:** replace manual `for` loop in examples [(#6550)](https://github.com/stdlib-js/stdlib/pull/6550) _(by Harsh Yadav, Athan Reines)_
 -   [`4039ae0`](https://github.com/stdlib-js/stdlib/commit/4039ae0c885e813edca9f53211d79b38e911b65a) - **bench:** update random value generation [(#5466)](https://github.com/stdlib-js/stdlib/pull/5466) _(by Karan Anand)_
