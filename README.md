@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import trunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-trunc@deno/mod.js';
+import trunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-trunc@v0.2.3-deno/mod.js';
 ```
 
 #### trunc( x )
@@ -85,7 +85,7 @@ v = trunc( -Infinity );
 ```javascript
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import trunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-trunc@deno/mod.js';
+import trunc from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-trunc@v0.2.3-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
