@@ -35,6 +35,22 @@ limitations under the License.
 
 > Round a double-precision floating-point number toward zero.
 
+<section class="intro">
+
+The [truncation function][truncation] rounds a numeric value toward zero
+
+<!-- <equation class="equation" label="eq:truncation_function" align="center" raw="y = \operatorname{trunc}(x) = \begin{cases} \lfloor x \rfloor & \textrm{if}\ x \geq 0 \\ \lceil x \rceil & \textrm{if}\ x < 0 \end{cases}" alt="Truncation function"> -->
+
+```math
+y = \mathop{\mathrm{trunc}}(x) = \begin{cases} \lfloor x \rfloor & \textrm{if}\ x \geq 0 \\ \lceil x \rceil & \textrm{if}\ x < 0 \end{cases}
+```
+
+<!-- </equation> -->
+
+</section>
+
+<!-- /.intro -->
+
 <section class="installation">
 
 ## Installation
@@ -289,6 +305,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [branches-url]: https://github.com/stdlib-js/math-base-special-trunc/blob/main/branches.md
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/math-base-special-trunc/main/LICENSE
+
+[truncation]: https://en.wikipedia.org/wiki/Truncation
 
 <!-- <related-links> -->
 
